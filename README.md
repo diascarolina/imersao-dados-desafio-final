@@ -1,4 +1,4 @@
-**Análise de Dados Sobre Drug Discovery 💊- Imersão de Dados 3 📊**
+**Análise de Dados Sobre Drug Discovery 💊🔍- Imersão de Dados 3 da Alura 📊**
 
 Por: Carolina Dias
 
@@ -13,6 +13,6 @@ Veremos que sim! ✅
 
 Foi utilizado o [Google Colab](https://colab.research.google.com/) para a realização do projeto.
 
-Links Úteis encontram-se ao final do notebook.
+Links úteis encontram-se ao final do notebook.
 
 Agradecimentos à Alura por ter proporcionado essa semana de aprendizado sobre Ciência de Dados e aos excelentes instrutores Thiago G. Santos, Vanessa Leiko e Guilherme Silveira, que nos acompanharam durante essa semana.
