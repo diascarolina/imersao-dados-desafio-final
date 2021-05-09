@@ -16,6 +16,16 @@ Veremos que sim! ✅
 
 Foi utilizado o [Google Colab](https://colab.research.google.com/) para a realização do projeto na linguagem [Python](https://www.python.org/), com os dados sendo carregados utilizando um link direto para o GitHub onde eles se encontram.
 
+Nos vemos então com as seguintes seções no nosso projeto:
+
+**1 Introdução**: O que é a Imersão de Dados 3 da Alura? O que é a descoberta de drogas? Como foi feito esse projeto?
+
+**2 Análise Exploratória dos Dados**: Quais bibliotecas foram utilizadas? De onde vieram os dados? Quais as variáveis desse problema e como elas estão estruturadas?
+
+**3 Machine Learning**: Qual o problema em questão? Qual modelo foi utilizado e por quê? Ele funcionou bem?
+
+**4 Conclusões**: O que aprendemos sobre esses dados após a análise?
+
 Todo o trabalho foi feito individualmente e todo o material é inédito, com inspiração e estudos fornecidos pelas 5 aulas que tivemos durante a semana da Imersão de Dados 3.
 
 🖱️ **Links úteis encontram-se ao final do notebook presente neste repositório.**
