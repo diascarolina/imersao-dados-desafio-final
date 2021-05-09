@@ -33,3 +33,7 @@ Todo o trabalho foi feito individualmente e todo o material é inédito, com ins
 ## Agradecimentos 🤝
 
 Agradecimentos à Alura por ter proporcionado essa semana de aprendizado sobre Ciência de Dados e aos excelentes instrutores Thiago G. Santos, Vanessa Leiko e Guilherme Silveira, que nos acompanharam durante essa dias.
+
+***
+
+A imagem do banner pode ser encontrada [aqui](https://unsplash.com/photos/9kSTF9PvETM).
