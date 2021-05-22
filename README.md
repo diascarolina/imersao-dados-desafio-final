@@ -1,8 +1,10 @@
 # **Análise de Dados Sobre Drug Discovery 💊🔍- Imersão de Dados 3 da Alura 📊**
 
-Por Carolina Dias
+[<img src="https://img.shields.io/badge/author-Carolina%20Dias-ff69b4?style=flat-square"/>](https://github.com/diascarolina)
 
 ![](https://i.imgur.com/lMM0OQQ.png)
+
+**Update**: Esse projeto foi um dos 10 escolhidos para ganhar uma bolsa de 100% para o Bootcamp Data Science Aplicada da Alura! Muito feliz com a oportunidade! 
 
 ## Introdução 🧑‍💻 
 
